@@ -1,48 +1,50 @@
-# Umer Amir
+<div align="center">
+  <h2> Tech Stack & Tools </h2>
+</div>
 
-**Phone:** +92 310 8533 834  
-**Email:** [umeramir20022@outlook.com](mailto:umeramir20022@outlook.com)  
-**LinkedIn:** [linkedin.com/in/umer-amir](https://linkedin.com/in/umer-amir)
+<p align="center">
+  <!-- Languages -->
+  <img alt="C" src="URL_FOR_C_BADGE" />
+  <img alt="JavaScript" src="URL_FOR_JS_BADGE" />
+  <img alt="Java" src="URL_FOR_JAVA_BADGE" />
+  <img alt="Python" src="URL_FOR_PYTHON_BADGE" />
+  <!-- Front-End -->
+  <img alt="HTML5" src="URL_FOR_HTML5_BADGE" />
+  <img alt="CSS3" src="URL_FOR_CSS3_BADGE" />
+  <img alt="Bootstrap" src="URL_FOR_BOOTSTRAP_BADGE" />
+  <img alt="React" src="URL_FOR_REACT_BADGE" />
+  <!-- Back-End & Database -->
+  <img alt="Node.js" src="URL_FOR_NODEJS_BADGE" />
+  <img alt="Express.js" src="URL_FOR_EXPRESS_BADGE" />
+  <img alt="MongoDB" src="URL_FOR_MONGODB_BADGE" />
+  <img alt="SQL" src="URL_FOR_SQL_BADGE" />
+  <!-- Tools / Software -->
+  <img alt="Illustrator" src="URL_FOR_ILLUSTRATOR_BADGE" />
+  <img alt="Photoshop" src="URL_FOR_PHOTOSHOP_BADGE" />
+  <img alt="Git" src="URL_FOR_GIT_BADGE" />
+  <img alt="VS Code" src="URL_FOR_VSCODE_BADGE" />
+  <img alt="Linux" src="URL_FOR_LINUX_BADGE" />
+  <img alt="Postman" src="URL_FOR_POSTMAN_BADGE" />
+</p>
 
-## Profile
-As a creative technologist with a deep interest in philosophy, I harmoniously blend artistry and computer science. My projects and research explore the seamless intertwining of music, code, and philosophical thought, offering a unique perspective that transcends conventional boundaries. I strive to forge innovative pathways where technology, music, and philosophy converge, creating awe-inspiring harmony.
+<hr>
 
-## Education
-- **SZABIST Karachi**  
-  Bachelor of Computer Science, 2021 - Present
-- **Bahria College Karachi**  
-  Intermediate - Federal Board, 2018 - 2020
+<!-- GitHub stats badges -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+</p>
 
-## Skills
-- Developing proficiency in **Java, C, Python, and Assembly language**.
-- Expertise in **music production** with a focus on orchestral projects and eastern music styles.
-- Demonstrated skills in creative problem-solving and cross-disciplinary innovation.
-- Exceptional written communication skills proven through authorship of research papers.
-- Evolving into a **Full Stack Developer** with a focus on **React** and **Express**.
+<!-- Profile views counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME" alt="profile views" />
+</p>
 
-## Experience and Key Projects
-- **GDSC Szabist Karachi**: Co-Lead of the organization eager to collaborate, innovate, and contribute.
-- **Music Production**: Active music producer blending eastern and western music styles, with compositions distributed across various platforms.
-- **Password Management System**: Developed a Java-based system for managing and generating intricate passwords.
-- **Airline Reservation System**: Engineered an intuitive platform for flight bookings.
-- **Medical Billing Management System**: Designed an Assembly language-based system.
-- **ATM Management System**: Implemented a C-based system with bill payment functionalities.
+<!-- Add your personal content here -->
+<div align="center">
+  <!-- Add your personal introduction, projects, experience, etc. -->
+</div>
 
-## Research
-- **Musical Artificial Intelligence**: Research on AI's potential in music production.
-- **Healthy to Adopt a Philosophical Mindset**: Exploring the evolution of the human mind and philosophy.
-- **What is Reality**: Exploring the idea of reality from a philosophical perspective.
-
-## Extracurricular
-- **Director**: Staged two theater acts.
-- **Participating Music Advocate**: Active member of the SZABIST Music Society.
-
-## Personal Interests
-- Hobbies: Swimming, Gym, Music Production, Ethical Software Cracking, Football.
-- Interests: Music, Singing, RTS Video Gaming, Chess, Debating.
-
-## Other
-- **Tools and Languages**: C, Java, 8086 emu, Python, SQL, x96 Debugger, Adobe Photoshop, Adobe Illustrator.
-- **Mini Projects**: Malware creation, TAS for NES, Sound design.
-
-![Umer Amir Logo](ME.png)
+<!-- Add your logo image at the end -->
+<div align="center">
+  <img src="ME.png" alt="Your Logo" width="200" height="200" />
+</div>
