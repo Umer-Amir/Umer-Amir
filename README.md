@@ -38,7 +38,7 @@
 
 <img 
    align="center"
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umer-Amir&layout=compact&langs_count=10&theme=transparent" 
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umer-Amir&layout=compact&langs_count=10" 
    alt="Umer's Github Stats" 
    width="300" 
    height="250" 
