@@ -1,7 +1,6 @@
 <h1 align="center">Sup, I'm Umer! 👋</h1>
 
 <h3 align="center">Innovative AI projects coming soon...</h3>
-<br></br>
 <h2 align="center">Skills</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="50" height="50"/>&nbsp;&nbsp;
