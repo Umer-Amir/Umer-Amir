@@ -24,14 +24,14 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" title="NodeJS" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" title="Prisma" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" title="GraphQL" width="50" height="50"/>&nbsp;&nbsp;
 </p>
 
 <br>
 
 
 <div align="center">
-<img align="center" src="https://streak-stats.demolab.com?user=Umer-Amir&show_icons=true&theme=gotham&theme=dark&hide_border=true&ring=00FFC8&currStreakLabel=00FFC8&background=5%2C00FFC81D%2C00EBD74D&fire=EB5454&dates=EBEBEB" alt="Umer's Github Stats" width = 300><br>
+<img align="center" src="https://streak-stats.demolab.com?user=Umer-Amir&theme=dark&hide_border=true&ring=00FFC8&currStreakLabel=00FFC8&background=5%2C00FFC81D%2C00EBD74D&fire=EB5454&dates=EBEBEB" alt="Umer's Github Stats" width = 300><br>
 <img  align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umer-Amir&layout=compact&langs_count=10&theme=transparent" alt="Umer's Github Stats" width = 300 height = 250><br>
 <img align="center" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FUmer-Amir&label=Views&labelColor=%23000000&countColor=%23303030&style=flat-square" />
