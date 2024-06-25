@@ -42,5 +42,5 @@
    alt="Umer's Github Stats" 
    width="300" 
    height="250" 
-   style="background: linear-gradient(to bottom, #00FFD33E 0%, #00FFD385 100%);"
+   style="theme: linear-gradient(to bottom, #00FFD33E 0%, #00FFD385 100%);"
  />
