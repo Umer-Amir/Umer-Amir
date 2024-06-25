@@ -13,7 +13,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="JAVA" width="50" height="50"/>
 </p>
 
-<h1 align="center">Tech Stack</h1>
+<h2 align="center">Tech Stack</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" title="Adobe Illustrator" width="50" height="50"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title="Adobe Photoshop" width="50" height="50"/>&nbsp;&nbsp;
