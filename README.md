@@ -1,4 +1,4 @@
-<h1 align="center">Sup, I'm Umer</h1>
+<h1 align="center" style="color: #00FFC8">Sup, I'm Umer</h1>
 
 <h3 align="center">Innovative AI projects coming soon...</h3>
 <h2 align="center">Skills</h2>
