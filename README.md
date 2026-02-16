@@ -29,6 +29,8 @@
 
 <br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umer-Amir&theme=dark&show_icons=true)
+
 
 <div align="center">
 <img align="center" src="https://streak-stats.demolab.com?user=Umer-Amir&theme=dark&hide_border=true&ring=00FFC8&currStreakLabel=00FFC8&background=5%2C00FFC81D%2C00EBD74D&fire=EB5454&dates=EBEBEB" alt="Umer's Github Stats" width = 400><br>
