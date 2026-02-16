@@ -1,131 +1,41 @@
-<div align="center">
+<h1 align="center" style="color: #00FFC8">Sup, I'm Umer</h1>
 
-<h1>Hi, I'm Umer Amir 👋</h1>
-
-<h3>Full Stack Developer | AI Enthusiast | Problem Solver</h3>
-
-<p>
-Building scalable backend systems, modern frontend applications, and intelligent AI-powered solutions.
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFC8&height=120&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=0D1117&animation=fadeIn" />
-
-</div>
-
----
-
-## 🚀 About Me
-
-- 💡 Passionate about building **real-world production systems**
-- 🧠 Exploring **AI-driven applications & intelligent automation**
-- 🔥 Strong focus on **Backend Engineering & System Design**
-- ⚙️ Currently expanding expertise in **.NET & Angular ecosystem**
-- 🎯 Always learning. Always building.
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Bootstrap
-- React
-- Angular
-
-### 🖥️ Backend
-- Node.js
-- Prisma
-- GraphQL
-- .NET
-- ASP.NET Core
-- REST APIs
-
-### 👨‍💻 Programming Languages
-- C
-- C#
-- Java
-- Python
-- SQL
-
-### 🎨 Design
-- Figma
-- Adobe Illustrator
-- Adobe Photoshop
-
-### 🧰 Tools & Platforms
-- Git
-- VS Code
-- IntelliJ IDEA
-- Postman
-
----
-
-## ⚡ Tech Stack Icons
-
+<h3 align="center">Innovative AI projects coming soon...</h3>
+<h2 align="center">Skills</h2>
 <p align="center">
-
-<!-- Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-
-<!-- Frontend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45"/>
-
-<!-- Backend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45" height="45"/>
-
-<!-- Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://i.ibb.co/jDHjxy4/pngwing-com-removebg-preview.png" title="SQL" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="JAVA" width="50" height="50"/>
 </p>
 
----
-
-## 📊 GitHub Analytics
-
+<h2 align="center">Tech Stack</h2>
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Umer-Amir&theme=dark&hide_border=true&ring=00FFC8&currStreakLabel=00FFC8&background=5%2C00FFC81D%2C00EBD74D&fire=EB5454&dates=EBEBEB" width="400">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" title="Adobe Illustrator" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" title="Adobe Photoshop" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://github.com/mustan-ali/img/blob/main/logo/intellijidea.png" title="IntelliJ IDEA" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" title="NodeJS" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" title="Prisma" width="50" height="50"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" title="GraphQL" width="50" height="50"/>&nbsp;&nbsp;
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umer-Amir&layout=compact&langs_count=8&theme=transparent" width="300">
-</p>
+<br>
 
----
-
-## 🌱 Current Focus
-
-- Building enterprise-grade applications using **C# & ASP.NET Core**
-- Developing scalable SPAs with **Angular**
-- Advancing knowledge in **System Design & DevOps**
-- AI + Backend Integration Projects
-
----
-
-## 📫 Let's Connect
-
-- 💼 LinkedIn: *(Add your link here)*
-- 📧 Email: *(Add your email here)*
-
----
 
 <div align="center">
+<img align="center" src="https://streak-stats.demolab.com?user=Umer-Amir&theme=dark&hide_border=true&ring=00FFC8&currStreakLabel=00FFC8&background=5%2C00FFC81D%2C00EBD74D&fire=EB5454&dates=EBEBEB" alt="Umer's Github Stats" width = 400><br>
+<img  align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umer-Amir&layout=compact&langs_count=10&theme=transparent" alt="Umer's Github Stats" width = 300 height = 250><br>
+<img align="center" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FUmer-Amir&label=Views&labelColor=%23000000&countColor=%23303030&style=flat-square"/>
 
-⭐️ *“Code with clarity. Build with purpose.”*
 
-</div>
+
+Fix this as best as you can
