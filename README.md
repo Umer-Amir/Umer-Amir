@@ -45,12 +45,16 @@ Backend: Prisma, GraphQL
 
 📊 GitHub Stats
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3DUmer-Amir%26theme%3Ddark%26hide_border%3Dtrue%26ring%3D00FFC8%26currStreakLabel%3D00FFC8%26background%3D0D1117%26fire%3D00FFC8" alt="GitHub Streak" width="400"/>
-</p>
+<img align="center" src="https://streak-stats.demolab.com?user=Umer-Amir&theme=dark&hide_border=true&ring=00FFC8&currStreakLabel=00FFC8&background=5%2C00FFC81D%2C00EBD74D&fire=EB5454&dates=EBEBEB" alt="Umer's Github Stats" width = 400>
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DUmer-Amir%26layout%3Dcompact%26langs_count%3D10%26theme%3Ddark%26title_color%3D00FFC8%26text_color%3Dffffff%26bg_color%3D0D1117%26hide_border%3Dtrue" alt="Top Langs" width="350"/>
-</p>
+
+
+
+<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umer-Amir&layout=compact&langs_count=10&theme=transparent" alt="Umer's Github Stats" width = 300 height = 250>
+
+
+
+
+<img align="center" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FUmer-Amir&label=Views&labelColor=%23000000&countColor=%23303030&style=flat-square"/>
 
 </div>
